@@ -1,0 +1,79 @@
+{
+	"product_type": "PPWC",
+	"business_info": {
+		"legal_business_name": "Bob's Tech Company",
+		"doing_business_as": "Technology Company",
+		"federal_tax_id": "1234567890",
+		"business_address": {
+			"line1": "559118 W. Main",
+			"address2": "P.O. Box 55801",
+			"city": "Main",
+			"country_code": "AU",
+			"postal_code": "85224"
+		},
+		"year_business_established": "1984",
+		"business_type": "Technology Company",
+		"industry_type": "Technology"
+	},
+	"personal_info": {
+		"account_number": "1537999440300038049",
+		"name": {
+			"first_name": "Dave",
+			"last_name": "Davis",
+			"middle_name": "Donald"
+		},
+		"email_address": "dave.davis19119@paypal.com",
+		"address": {
+			"line1": "559119 W. Main",
+			"address2": "P.O. Box 55800",
+			"city": "Main",
+			"country_code": "AU",
+			"postal_code": "85224"
+		},
+		"phones": [
+			{
+				"number": "+61-8-9400-1000",
+				"type": "HOME",
+				"country_code": "61"
+			}
+		],
+		"dob": "1970-07-03"
+	},
+	"purpose_of_loan": "Staffing",
+	"application_id": "1234567890",
+	"application_status": "PENDING_FUNDING",
+	"loan_offers": [
+		{
+			"offer_id": "1234",
+			"principal": {
+				"currency_code": "AUD",
+				"value": "10000"
+			},
+			"fee": {
+				"currency_code": "AUD",
+				"value": "1000"
+			},
+			"repayment_rate": "5.4",
+			"estimated_payoff_in_months": 3
+		}
+	],
+	"loan_options": [
+		{
+			"name": "option1",
+			"value": true
+		},
+		{
+			"name": "option2",
+			"value": false
+		}
+	],
+	"expiration_date": "2015-08-20",
+	"vendor_record_reference": "5319786420",
+	"links": [
+		{
+			"href": "v1/credit/applications-au-business-loan/1234567890",
+			"rel": "self",
+			"method": "GET"
+		}
+	]
+}

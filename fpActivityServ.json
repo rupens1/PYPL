@@ -1,0 +1,351 @@
+{
+	"items":
+	[
+		{
+			"id": "2007",
+			"status": "ALLOWED",
+			"type": "AUTOMATED_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-124.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-09T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail":
+			{
+				"expected_amount":
+				{
+					"currency_code": "USD",
+					"value": "124.0"
+				},
+				"collected_amount":
+				{
+					"currency_code": "USD",
+					"value": "-124.0"
+				},
+				"transaction_detail":
+				{
+					"amount":
+					{
+						"currency_code": "EUR",
+						"value": "399.35"
+					},
+					"fee": null,
+					"converted_amount":
+					{
+						"currency_code": "USD",
+						"value": "622.72"
+					},
+					"conversion_rate": "1.56",
+					"transaction_date": "2015-10-07T07:00:00.000+0000"
+				}
+			},
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "2008",
+			"status": "ALLOWED",
+			"type": "AUTOMATED_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-30.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-09T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail":
+			{
+				"expected_amount":
+				{
+					"currency_code": "USD",
+					"value": "30.0"
+				},
+				"collected_amount":
+				{
+					"currency_code": "USD",
+					"value": "-30.0"
+				},
+				"transaction_detail":
+				{
+					"amount":
+					{
+						"currency_code": "JPY",
+						"value": "99.0"
+					},
+					"fee": null,
+					"converted_amount":
+					{
+						"currency_code": "USD",
+						"value": "154.92"
+					},
+					"conversion_rate": "1.56",
+					"transaction_date": "2015-10-07T07:00:00.000+0000"
+				}
+			},
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "",
+			"status": "NOT_ALLOWED",
+			"type": "OTHER_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-10.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-09T08:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "2011",
+			"status": "ALLOWED",
+			"type": "AUTOMATED_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-4.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-09T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail":
+			{
+				"expected_amount":
+				{
+					"currency_code": "USD",
+					"value": "4.0"
+				},
+				"collected_amount":
+				{
+					"currency_code": "USD",
+					"value": "-4.0"
+				},
+				"transaction_detail":
+				{
+					"amount":
+					{
+						"currency_code": "JPY",
+						"value": "1199.0"
+					},
+					"fee": null,
+					"converted_amount":
+					{
+						"currency_code": "USD",
+						"value": "24.67"
+					},
+					"conversion_rate": "0.02",
+					"transaction_date": "2015-10-07T07:00:00.000+0000"
+				}
+			},
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "2005",
+			"status": "NOT_ALLOWED",
+			"type": "FEE_REVERSAL",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-114.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-09T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "",
+			"status": "NOT_ALLOWED",
+			"type": "PAYMENT_REVERSAL",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "79.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-07T08:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "2002",
+			"status": "ALLOWED",
+			"type": "AUTOMATED_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-79.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-07T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail":
+			{
+				"expected_amount":
+				{
+					"currency_code": "USD",
+					"value": "79.0"
+				},
+				"collected_amount":
+				{
+					"currency_code": "USD",
+					"value": "-79.0"
+				},
+				"transaction_detail":
+				{
+					"amount":
+					{
+						"currency_code": "USD",
+						"value": "399.35"
+					},
+					"fee": null,
+					"converted_amount":
+					{
+						"currency_code": "USD",
+						"value": "399.35"
+					},
+					"conversion_rate": "1.0",
+					"transaction_date": "2015-10-05T07:00:00.000+0000"
+				}
+			},
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "2003",
+			"status": "ALLOWED",
+			"type": "AUTOMATED_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-19.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-07T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail":
+			{
+				"expected_amount":
+				{
+					"currency_code": "USD",
+					"value": "19.0"
+				},
+				"collected_amount":
+				{
+					"currency_code": "USD",
+					"value": "-19.0"
+				},
+				"transaction_detail":
+				{
+					"amount":
+					{
+						"currency_code": "USD",
+						"value": "99.35"
+					},
+					"fee": null,
+					"converted_amount":
+					{
+						"currency_code": "USD",
+						"value": "99.35"
+					},
+					"conversion_rate": "1.0",
+					"transaction_date": "2015-10-05T07:00:00.000+0000"
+				}
+			},
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "2006",
+			"status": "NOT_ALLOWED",
+			"type": "PAYMENT_REVERSAL",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "1000.0"
+			},
+			"description": null,
+			"transaction_date": "2015-10-09T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "1006",
+			"status": "ALREADY_REVERSED",
+			"type": "PRE_PAYMENT",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "-1000.0"
+			},
+			"description": null,
+			"transaction_date": "2015-09-28T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "1004",
+			"status": "NOT_ALLOWED",
+			"type": "CASH_ADVANCE",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "6000.0"
+			},
+			"description": null,
+			"transaction_date": "2015-09-28T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		},
+		{
+			"id": "1005",
+			"status": "ALREADY_REVERSED",
+			"type": "FEE",
+			"amount":
+			{
+				"currency_code": "USD",
+				"value": "114.0"
+			},
+			"description": null,
+			"transaction_date": "2015-09-28T07:00:00.000+0000",
+			"settlement_date": null,
+			"payment_detail": null,
+			"transaction_code": null,
+			"transaction_reference_number": null
+		}
+	],
+	"total_items": 12,
+	"total_pages": 1,
+	"links":
+	[
+		{
+			"href": "https://10.25.144.16:13371/v1/credit/accounts/3rZyDN8sQ1Kc1GF_0bz5IA/business_loan_activities?page=1",
+			"rel": "first"
+		},
+		{
+			"href": "https://10.25.144.16:13371/v1/credit/accounts/3rZyDN8sQ1Kc1GF_0bz5IA/business_loan_activities?page=1",
+			"rel": "last"
+		}
+	]
+}
+
